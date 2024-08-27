@@ -9,7 +9,7 @@ An app for rating repositories made with React Native and Typescript. This was d
 ## Installation
 1. Clone the repo
 
-       git@github.com:ekisler/rate-repository-app.git
+       git@github.com:ekisler/rate-repository-app-1.git
 2. Run ```npm install``` and ```npm start```
 
-3. Backend along with setup instructions can be found [here](https://github.com/ekisler/rate-repository-api)
+3. Backend along with setup instructions can be found [here](https://github.com/ekisler/rate-repository-api-1)
